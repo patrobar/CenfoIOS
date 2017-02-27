@@ -1,0 +1,37 @@
+La Dirección de Sicere (Sistema Centralizado de Recaudación), 
+es una instancia de la institución Caja Costarricense de seguro Social 
+que desempaña un papel fundamental en la facturación 
+de cuotas y aportes obrero-patronales que deben 
+realizar los patronos y trabajadores a 
+los Regímenes de Enfermedad y Maternidad e Invalidez, Vejez y Muerte, 
+además de las contribuciones obligatorias a otras entidades 
+y la facturación y distribución de los dineros
+ que serán destinados a los Fondos de Capitalización 
+Laboral y de Pensiones Complementarias Obligatorias 
+previstos en la Ley de Protección al Trabajador. 
+
+
+Se desea realizar una app donde los trabajadores de Costa Rica podran acceder a ver su información personal y
+conocer  el detalle de los aportes al Régimen Obligatorio
+ de Pensión Complementaria (ROP) 
+y el Fondo de Capitalización Laboral 
+(FCL), que a través del SICERE,
+ se han distribuido a su cuenta  
+individual en la Operadora de Pensiones elegida.
+
+Con la app movil del Sicere los trabajadores podran realizar los siguientes trámites:
+	Gestión de Afiliación (Traslado de Operadora de Pensiones),
+	Consultar a que Operadora de Pensiones del Régimen Obligatorio de   Pensión        
+         Complementaria y el   Fondo de Capitalización Laboral, se encuentra afiliado,
+	Histórico de afiliación a Operadoras de Pensiones,
+	Consultar su historia laboral (a partir de marzo del 2001),
+	Consulta de Continuidad Laboral para Retiro del FCL,
+	Aportes distribuidos al Fondo de Capitalización Laboral (FCL) y Régimen Obligatorio de Pensiones (ROP),
+	Información sobre periodos laborados y salarios consignados en planilla.
+        Genreación de la Orden Patronal Digital   
+
+
+
+
+
+
